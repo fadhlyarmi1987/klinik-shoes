@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777558824880",
+    "project_id": "klinik-shoes",
+    "storage_bucket": "klinik-shoes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777558824880:android:b828d8b03d2c25b883a875",
+        "android_client_info": {
+          "package_name": "com.example.kli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo216qp71Ks-KGJvq4w08i-cZkxnqISck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
